@@ -24,3 +24,6 @@ PatrolAgent V9.0.10i
 
 The vulnerability was discovered by Jan Kopec (https://twitter.com/blogresponder) and Charles d'Hondt (https://twitter.com/whira_wr) both working at LEXFO.
 
+## Reference
+
+https://docs.bmc.com/docs/PATROLAgent/11302/notification-of-action-required-by-patrol-agent-users-to-apply-the-security-patch-898411558.html  
