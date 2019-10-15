@@ -12,6 +12,7 @@ Chaining the two vulnerabilities allows to obtain "root" privileges from any oth
 PatrolAgent V9.0.10i 
 
 (vulnerability was tested on PatrolAgent V9.0.10i but other versions may be vulnerable as well)
+(according to BMC the CVE-2019-17043 allowing to get "patrol" privileges from normal user does not affect recent versions of Patrol Agent)
 
 ## Disclosure timeline
 
