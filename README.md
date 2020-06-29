@@ -16,10 +16,10 @@ Note : according to BMC,  CVE-2019-17043 (normal user to patrol user escalation)
 
 ## Disclosure timeline
 
-2019-07-03 - Vulnerability discovered  
-2019-07-07 - Vendor contacted  
-2019-07-08 - Vendor responded and initial dialog and vulnerability reviewing process is started  
-2019-09-14 - Vulnerability disclosed  
+03.07.2019 - Vulnerability discovered  
+07.07.2019 - Vendor contacted  
+08.07.2019 - Vendor responded and initial dialog and vulnerability reviewing process is started  
+14.09.2019 - Vulnerability disclosed  
 
 ## Acknowledgment
 
